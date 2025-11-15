@@ -1,2 +1,3 @@
-# iac_packer
+# README
+
 This repo created by Terraform
